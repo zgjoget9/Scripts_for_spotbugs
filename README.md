@@ -10,7 +10,7 @@ Here I provide information filtering on XML files
 ## search .jar files
 please ensure mkdir allxml
 ```
-python3 pro2jars
+python3 pro2jars.py
 ```
 this way we will search all *.jar files in the directory and save their path to jars.txt
 ## spotbugs 
