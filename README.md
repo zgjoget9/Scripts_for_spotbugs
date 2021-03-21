@@ -21,6 +21,6 @@ python3 runspotbugs.py
 ## filter
 here i will filter the xml files and output txt files and txt likes:
 
-！(https://github.com/zgjoget9/Scripts_for_spotbugs/blob/main/截屏2021-03-21%2012.22.29.png)
+！[xmlfilter](https://github.com/zgjoget9/Scripts_for_spotbugs/blob/main/截屏2021-03-21%2012.22.29.png)
 
 run `python3 xmlfilter.py`
